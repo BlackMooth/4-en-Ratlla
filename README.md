@@ -21,7 +21,7 @@ Aquestes instruccions et proporcionaran una còpia del projecte en funcionament 
 
 ### Prerequisits
 
-Per executar el projecte necessites un compilador de Haskell. Pots descarregar la * [Haskell-Platform](https://www.haskell.org/platform/) 
+Per executar el projecte necessites un compilador de Haskell. Pots descarregar la  [Haskell-Platform](https://www.haskell.org/platform/) .
 O, si prefereixes, pots instal·lar-lo desde la línea de comandes. 
 
 En Ubuntu, per exemple:
